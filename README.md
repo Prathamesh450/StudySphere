@@ -31,8 +31,8 @@ StudySphere is a comprehensive learning platform designed to help students colla
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/StudySphereApp.git
-   cd StudySphereApp
+   git clone https://github.com/yourusername/StudySphere.git
+   cd StudySphere
    ```
 
 2. Install dependencies:
